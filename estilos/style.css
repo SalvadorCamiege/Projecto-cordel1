@@ -12,11 +12,11 @@
 }
 
 
-
 *{
     margin: 0px;
     padding: 0px;
 }
+
 body,html{
     min-height: 100vh;
     background-color: rgb(247, 248, 248);
@@ -40,14 +40,15 @@ header p{
     padding-bottom: 50px;
 }
  
-
 a{
     color: white;
     text-decoration: none;
 } 
+
 a:hover{
     text-decoration: underline;
 }
+
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -56,13 +57,16 @@ section{
     font-family: var(--font03);
     font-size: 3.5vw;
 }
+
 section >p{
     padding-bottom: 2em;
 }
+
 section.narmal{
     background-color: white;
     color: black;
 }
+
 section.imagem{
     background-color: rgba(14, 13, 13, 0.623);
     color: white;
@@ -83,6 +87,7 @@ section#img01{
     background-position: right center;
     background-size: cover;
     
+    
 }
 
 section#img02{
@@ -94,6 +99,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
+    border-radius: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
