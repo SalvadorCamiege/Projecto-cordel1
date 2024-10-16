@@ -1,4 +1,5 @@
 Cordel Moderno
+
 Este projeto é uma página web que apresenta uma adaptação poética do estilo literário cordel, escrita por Milton Duarde. O poema reflete sobre a evolução da comunicação na era digital, contrastando a tecnologia moderna com a saudade de métodos mais tradicionais, como a troca de cartas.
 
 Estrutura do Projeto
